@@ -1,0 +1,15 @@
+.python-version
+
+# Fichier Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Mac
+.DS_Store
+
+# data
+data/
+
+# Secrets
+credentials.json
