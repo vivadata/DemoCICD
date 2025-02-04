@@ -2,6 +2,6 @@ import math
 
 import matplotlib.pyplot as plt
 
-from mymodule.math import exponential
+from src.mymodule.math import exponential
 
 print("Hello World")

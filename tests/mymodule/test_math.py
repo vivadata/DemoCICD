@@ -1,4 +1,4 @@
-from mymodule.math import exponential, factorial
+from src.mymodule.math import exponential, factorial
 
 
 def test_exponential():
